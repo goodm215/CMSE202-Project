@@ -7,7 +7,7 @@ To run the notebook, simply run all cells from top to bottom.
 
 Individual Contributions:
 
-Meghan Latouf: My contributions included functions toxins and temperature, some original stub functions with code for the bacteria/board, imports. I edited doc strings, death(for temperature), some animation/movement editing throughout creation of the project.
+Meghan Latouf: My contributions included functions toxins and temperature, some original stub functions with code for the bacteria/board, imports. I edited doc strings, death(for temperature), some animation/movement editing throughout creation of the project. I assited with keeping files up to date by combining everyone's code as well as edited the final project video.
 
 Bergen Kendziorski: My main contributions were in the bacteria reproduction (including finding openings) and death, as well as in the board initialization and display. I also added in the capability of 2 different bacteria types with the necessary changes to data collection, and made edits throughout the project.
 
